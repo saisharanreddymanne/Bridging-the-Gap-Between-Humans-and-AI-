@@ -1,7 +1,7 @@
 # Analytical Review of Explainable Artificial Intelligence: Bridging the Gap Between Complexity and Interpretability
 
 
-** Abstract: **
+**Abstract:**
  
  In this study, we assess and compare the two most
  popular machine learning algorithms, Logistic Regression and
@@ -63,7 +63,7 @@
  hand picked article. Through our reasoning we will shed light
  on essential aspects of the research, including its findings,
  
-# A. Foundations of Explainable AI
+**A. Foundations of Explainable AI**
 
  methodologies, and insights. The ultimate purpose will be to
  gain a good inside of how effective preventive maintenance
@@ -111,7 +111,7 @@ cover the complicated layers of the AI algorithms framework,
 
 # APPROACH AND METHODS
 
-# A. Set of rules Description
+**A. Set of rules Description**
 
  The paper demonstrates the use of the supervised machine
  learning algorithms such as Logistic Regression (LR) and
@@ -146,7 +146,7 @@ Score was 0.85 and 0.86. The confusion matrix displays the
  21 negative instances as positive and 8 positive instances as
  negative. [5].
  
- # B. Re implementation technique:
+ **B. Re implementation technique:**
  
  In order to visualize and get an improved version for the
  announced plans, we wholly relied on a systematic approach
@@ -172,7 +172,7 @@ tions and evaluation metrics to achieve an exact reproduction
  measures was done and the credibility of the paper assessment
  was made according to the needed approved testing technique. 
  
- # C. Tools and technologies
+ **C. Tools and technologies**
  
  In the process of implementing and measuring the outcome
  on the predefined real-world situation, we had to resort to the
@@ -200,7 +200,7 @@ tions and evaluation metrics to achieve an exact reproduction
 
 # RESULT AND DISCUSSION
 
-# A. Improved Result
+**A. Improved Result**
 
  These numbers underscore that by re-implementing in the
  decision trees repairing procedures as well as logistic regres
@@ -214,7 +214,7 @@ ing improved performance. We realized that the crucial thing
 the main components in the strategy as well, helping to ensure
  positive effect in regards to predictive power.
  
- # B. Accuracy and Precision
+ **B. Accuracy and Precision**
  
  The logistic regression model provided a high increase
  in accuracy percentage compared to 85 percent of accuracy,
@@ -231,7 +231,7 @@ tifying nuances in the data that help the model grow better
 
  <img width="191" height="81" alt="image" src="https://github.com/user-attachments/assets/12ead85c-c276-42ab-9cac-d3e3e1d24159" />
 
- # Fig. 3. Logistic Regression Classification Report
+ **Fig. 3. Logistic Regression Classification Report**
  
  The classifier LGBM Classifier() excelled. It displayed out
 standing performance and, in the end, obtained a satisfactory
@@ -258,13 +258,13 @@ dependency among in each data set, as it is the intrinsic need
  the response will be and by directly setting the maintenance
  strategy up.
  
-# C. Performance Evaluation of the Logistic Regression Model
+**C. Performance Evaluation of the Logistic Regression Model**
  This section analyzes the performance of the Logistic Re
 gression model on the synthetic binary classification dataset
 
 <img width="190" height="79" alt="image" src="https://github.com/user-attachments/assets/e51c2c51-9dc4-4e6a-a7ae-c6441179d616" />
 
-# Fig. 4. LGM Classification Report
+**Fig. 4. LGM Classification Report**
 
  using two key metrics also, the wrongly-classified samples can
  be used a to the evaluating the accuracy of the classification
@@ -275,7 +275,7 @@ sion matrix is, in fact, able to converge information about the
 
  <img width="200" height="173" alt="image" src="https://github.com/user-attachments/assets/680938cf-7d39-47f7-a6d8-694f02be39ad" />
 
- # Fig. 5. Confusion Matrix for Logistic Regression
+ **Fig. 5. Confusion Matrix for Logistic Regression**
  
  Utilizing the error analysis in this context, we could ac
 knowledge the regions that require improvement, e.g. limiting
