@@ -1,7 +1,7 @@
 # Analytical Review of Explainable Artificial Intelligence: Bridging the Gap Between Complexity and Interpretability
 
 
-# Abstract:
+** Abstract: **
  
  In this study, we assess and compare the two most
  popular machine learning algorithms, Logistic Regression and
